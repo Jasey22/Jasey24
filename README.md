@@ -13,4 +13,3 @@ I am currently learning from [FreeCodeCamp](https://www.freecodecamp.org/) and h
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=Jasey22&icon=5&color=0)](https://visitcount.itsvg.in)
