@@ -1,6 +1,6 @@
-### Hi There 👋
+### README.ME PRACTICE
 
-Learning HTML, CSS and JAVASCRIPT! Creating projects and posting them here to see my progression over time as i better my skills to eventually update said projects.
+Learning HTML, CSS and JAVASCRIPT! This readme is just for testing only.
 
 I am currently learning from [FreeCodeCamp](https://www.freecodecamp.org/)
 
