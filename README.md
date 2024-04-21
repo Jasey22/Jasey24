@@ -1,4 +1,4 @@
-### README.ME PRACTICE
+### README.MD PRACTICE
 
 Learning HTML, CSS and JAVASCRIPT! This readme is just for testing only.
 
